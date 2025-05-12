@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 50px;
+  }
+  
+  h1, h2 {
+    color: #3366cc;
+    cursor: pointer;
+  }
+  
+  img {
+    width: 300px;
+    height: 200px;
+    margin: 20px;
+    transition: opacity 0.3s;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 10px;
+  }
+  
+  #textContainer {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  #itemList {
+    list-style: none;
+    padding: 0;
+    font-size: 18px;
+  }
+  
+  #itemList li {
+    margin: 5px 0;
+  }
+  
